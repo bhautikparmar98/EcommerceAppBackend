@@ -1,0 +1,9 @@
+{
+    "env":{
+        "DB_USER": "bhautik",
+        "DB_PASSWORD": "iKVxMr1hfuEz6StK",
+        "DB_NAME": "shop",
+        "JWT_KEY": "anysecretkey"
+
+    }
+}
